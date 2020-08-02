@@ -23,8 +23,8 @@ class JSXConditionRendering extends Component {
           {
             (function(){
               if (value === 1) return <div>1이다!</div>
-              if (value === 1) return <div>2이다!</div>
-              if (value === 1) return <div>3이다!</div>
+              if (value === 2) return <div>2이다!</div>
+              if (value === 3) return <div>3이다!</div>
               return <div>없다</div>
             })()
           }
@@ -33,8 +33,8 @@ class JSXConditionRendering extends Component {
           {
             (() =>{
               if (value === 1) return <div>1이다!</div>
-              if (value === 1) return <div>2이다!</div>
-              if (value === 1) return <div>3이다!</div>
+              if (value === 2) return <div>2이다!</div>
+              if (value === 3) return <div>3이다!</div>
               return <div>없다</div>
             })()
           }
