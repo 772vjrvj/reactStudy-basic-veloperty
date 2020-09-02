@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import '../css/JSXStyleAttribute.css'
+import '../../css/1. JSX/JSXStyleAttribute.css'
 
 class JSXStyleAttribute extends Component {
   

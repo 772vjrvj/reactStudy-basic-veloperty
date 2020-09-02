@@ -1,13 +1,12 @@
 
 
-|      | 파일이름                 | 내용                                                        |
-| ---- | ------------------------ | ----------------------------------------------------------- |
-| 1    | JSXConditionRendering.js | 3항 연산자 / && 연산자 / 즉시실행함수 / 즉시실행함수es6버전 |
-| 2    | JSXStyleAttribute.js     | class로 style(스타일) 넣기 / const style(스타일)로 넣기     |
-| 3    | PropsBasicUse.js         | default디폴트 props 2가지                                   |
-| 4    | PropsBasicAssignUse.js   | 비구조할당이용해서 props 넣기                               |
-| 5    |                          |                                                             |
-| 6    |                          |                                                             |
+|      |                  | 파일이름                 | 내용                                                        |
+| ---- | ---------------- | ------------------------ | ----------------------------------------------------------- |
+| 1    | 1. JSX           | JSXConditionRendering.js | 3항 연산자 / && 연산자 / 즉시실행함수 / 즉시실행함수es6버전 |
+| 2    | 1. JSX           | JSXStyleAttribute.js     | class로 style(스타일) 넣기 / const style(스타일)로 넣기     |
+| 3    | 2. Props & State | PropsBasicAssignUse.js   | 비구조할당이용해서 props 넣기                               |
+| 4    | 2. Props & State | PropsBasicUse.js         | default디폴트 props 2가지                                   |
+| 5    | 2. Props & State | StateBasicUse.js         | + - 버튼으로 state 업데이트<br />+ - 함수 바인딩            |
 
 
 
