@@ -1,13 +1,15 @@
 
 
-|      |                  | 파일이름                 | 내용                                                        |
-| ---- | ---------------- | ------------------------ | ----------------------------------------------------------- |
-| 1    | 1. JSX           | JSXConditionRendering.js | 3항 연산자 / && 연산자 / 즉시실행함수 / 즉시실행함수es6버전 |
-| 2    | 1. JSX           | JSXStyleAttribute.js     | class로 style(스타일) 넣기 / const style(스타일)로 넣기     |
-| 3    | 2. Props & State | PropsBasicAssignUse.js   | 비구조할당이용해서 props 넣기                               |
-| 4    | 2. Props & State | PropsBasicUse.js         | default디폴트 props 2가지                                   |
-| 5    | 2. Props & State | StateBasicUse.js         | + - 버튼으로 state 업데이트<br />+ - 함수 바인딩            |
-| 6    | 3. LifeCycle API |                          | react 라이프 사이클                                         |
+|      |                           | 파일이름                 | 내용                                                        |
+| ---- | ------------------------- | ------------------------ | ----------------------------------------------------------- |
+| 1    | 1. JSX                    | JSXConditionRendering.js | 3항 연산자 / && 연산자 / 즉시실행함수 / 즉시실행함수es6버전 |
+| 2    | 1. JSX                    | JSXStyleAttribute.js     | class로 style(스타일) 넣기 / const style(스타일)로 넣기     |
+| 3    | 2. Props & State          | PropsBasicAssignUse.js   | 비구조할당이용해서 props 넣기                               |
+| 4    | 2. Props & State          | PropsBasicUse.js         | default디폴트 props 2가지                                   |
+| 5    | 2. Props & State          | StateBasicUse.js         | + - 버튼으로 state 업데이트<br />+ - 함수 바인딩            |
+| 6    | 3. LifeCycle API          |                          | react 라이프 사이클                                         |
+| 7    | 4. LifeCycle API DidCatch |                          | react 라이프 사이클 에러 던지기                             |
+| 8    | 5. InputManage            |                          | 전화번호 이름 번호 추가 삭제 수정                           |
 
 
 
