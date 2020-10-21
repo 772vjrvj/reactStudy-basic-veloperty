@@ -7,6 +7,7 @@
 | 3    | 2. Props & State | PropsBasicAssignUse.js   | 비구조할당이용해서 props 넣기                               |
 | 4    | 2. Props & State | PropsBasicUse.js         | default디폴트 props 2가지                                   |
 | 5    | 2. Props & State | StateBasicUse.js         | + - 버튼으로 state 업데이트<br />+ - 함수 바인딩            |
+| 6    | 3. LifeCycle API |                          | react 라이프 사이클                                         |
 
 
 

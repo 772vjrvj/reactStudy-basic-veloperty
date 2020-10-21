@@ -4,7 +4,7 @@ import ReactDOM from 'react-dom';
 // import App from './App';
 
 import * as serviceWorker from './serviceWorker';
-import App from './BasicStudy/5. InputManage/App';
+import App from './BasicStudy/3. LifeCycle API/App';
 
 ReactDOM.render(
   <React.StrictMode>
